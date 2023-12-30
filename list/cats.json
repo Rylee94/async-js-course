@@ -1,0 +1,22 @@
+[
+  {
+    "breed": "Abyssinian",
+    "coat": "Short",
+    "weight": 2
+  },
+  {
+    "breed": "Siberian Forest Cat",
+    "coat": "long",
+    "weight": 4.3
+  },
+  {
+    "breed": "Sphynx",
+    "coat": "Short",
+    "weight": 3.8
+  },
+  {
+    "breed": "Scottish Fold",
+    "coat": "Short",
+    "weight": 2.9
+  }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "text": "JavaScript is awesome",
+        "author": "Bill Gates"
+    },
+    {
+        "text": "Python is great",
+        "author": "Mark Zuckerberg"
+    },
+    {
+        "text": "C++ is awesome",
+        "author": "Steve Jobs"
+    },
+    {
+        "text": "Java is awesome",
+        "author": "James Gosling"
+    }
+]
